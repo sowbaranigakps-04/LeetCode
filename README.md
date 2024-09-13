@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0035-search-insert-position) |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0792-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
