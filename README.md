@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0035-search-insert-position) |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0792-binary-search) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0953-reverse-only-letters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 ## Bucket Sort
 |  |
 | ------- |
