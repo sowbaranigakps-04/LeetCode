@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
