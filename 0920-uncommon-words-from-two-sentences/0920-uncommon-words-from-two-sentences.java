@@ -14,18 +14,18 @@ class Solution {
             map2.put(str2[i],map2.getOrDefault(str2[i],0)+1);
         }
         List<String> list = new ArrayList<>();
-        for(Map.Entry m : map1.entrySet())
+        for(var m : map1.entrySet())
         {
-            String word = (String)m.getKey();
-            int freq = (int)m.getValue();
+            String word = m.getKey();
+            int freq = m.getValue();
             if(freq==1 && !map2.containsKey(word))
                 list.add(word);
         }
 
-        for(Map.Entry m1 : map2.entrySet())
+        for(var m1 : map2.entrySet())
         {
-            String word = (String)m1.getKey();
-            int freq = (int)m1.getValue();
+            String word = m1.getKey();
+            int freq = m1.getValue();
             if(freq==1 && !map1.containsKey(word))
                 list.add(word);
         }
