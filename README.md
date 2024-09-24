@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0906-walking-robot-simulation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
