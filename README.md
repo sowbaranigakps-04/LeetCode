@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3312-number-of-changing-keys](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
