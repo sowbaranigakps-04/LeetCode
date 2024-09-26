@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Greedy
