@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0874-backspace-string-compare) |
