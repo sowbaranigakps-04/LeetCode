@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0725-split-linked-list-in-parts) |
