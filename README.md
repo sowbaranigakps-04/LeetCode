@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0941-sort-array-by-parity](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1319-unique-number-of-occurrences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0941-sort-array-by-parity](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0941-sort-array-by-parity](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
