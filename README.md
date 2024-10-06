@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Math
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Brainteaser
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
@@ -397,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
