@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
