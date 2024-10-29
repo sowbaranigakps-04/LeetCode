@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
