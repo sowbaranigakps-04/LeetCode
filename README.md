@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
