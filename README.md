@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
