@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0792-binary-search) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
