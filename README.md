@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0389-find-the-difference) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0282-expression-add-operators) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0670-maximum-swap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0282-expression-add-operators) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
