@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0782-jewels-and-stones](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0460-lfu-cache) |
 ## Quickselect
 |  |
 | ------- |
