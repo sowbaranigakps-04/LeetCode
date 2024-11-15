@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -594,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
