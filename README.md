@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0898-transpose-matrix) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0214-shortest-palindrome) |
