@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0219-contains-duplicate-ii) |
