@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
