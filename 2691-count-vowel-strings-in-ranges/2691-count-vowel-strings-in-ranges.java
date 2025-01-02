@@ -11,7 +11,7 @@ class Solution {
             if(isVowel(word.charAt(0)))
             {
                 if(isVowel(word.charAt(length-1)))
-                    sum++;
+                sum++;
             }
         }
         prefix[prefix.length-1] = sum;
