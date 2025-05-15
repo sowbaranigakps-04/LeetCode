@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2051-longest-common-subpath](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2051-longest-common-subpath) |
 | [2058-concatenation-of-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2068-maximum-genetic-difference-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2068-maximum-genetic-difference-query) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2068-maximum-genetic-difference-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2068-maximum-genetic-difference-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2068-maximum-genetic-difference-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2068-maximum-genetic-difference-query) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2068-maximum-genetic-difference-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2068-maximum-genetic-difference-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2068-maximum-genetic-difference-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2068-maximum-genetic-difference-query) |
 | [2755-extra-characters-in-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
