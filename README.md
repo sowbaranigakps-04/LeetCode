@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0051-n-queens) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0051-n-queens) |
 | [0282-expression-add-operators](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0282-expression-add-operators) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
