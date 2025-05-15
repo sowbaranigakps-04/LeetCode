@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2563-split-message-based-on-limit](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2563-split-message-based-on-limit) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Backtracking
 |  |
 | ------- |
