@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0052-n-queens-ii) |
 | [0282-expression-add-operators](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0282-expression-add-operators) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
