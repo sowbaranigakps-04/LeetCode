@@ -733,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2051-longest-common-subpath](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2051-longest-common-subpath) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
