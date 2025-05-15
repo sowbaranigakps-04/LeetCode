@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1947-number-of-different-subsequences-gcds](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2051-longest-common-subpath](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2051-longest-common-subpath) |
 | [2058-concatenation-of-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2051-longest-common-subpath](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2051-longest-common-subpath) |
 | [2164-two-best-non-overlapping-events](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2051-longest-common-subpath](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2051-longest-common-subpath) |
 ## String Matching
 |  |
 | ------- |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2051-longest-common-subpath](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2051-longest-common-subpath) |
 ## Trie
 |  |
 | ------- |
@@ -707,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Suffix Array
+|  |
+| ------- |
+| [2051-longest-common-subpath](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2051-longest-common-subpath) |
 <!---LeetCode Topics End-->
