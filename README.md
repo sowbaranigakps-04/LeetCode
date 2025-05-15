@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Bucket Sort
 |  |
@@ -711,11 +715,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
 ## Queue
 |  |
 | ------- |
@@ -782,4 +788,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0185-department-top-three-salaries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
 <!---LeetCode Topics End-->
