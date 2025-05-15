@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0736-parse-lisp-expression](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0736-parse-lisp-expression) |
+| [0763-special-binary-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0763-special-binary-string) |
 | [0781-basic-calculator-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [0782-jewels-and-stones](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0812-rotate-string) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0736-parse-lisp-expression](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0736-parse-lisp-expression) |
+| [0763-special-binary-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0763-special-binary-string) |
 | [0781-basic-calculator-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [1197-parsing-a-boolean-expression](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
