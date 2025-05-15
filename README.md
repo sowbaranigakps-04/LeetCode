@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0076-minimum-window-substring) |
