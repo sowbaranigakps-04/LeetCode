@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0517-super-washing-machines](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0517-super-washing-machines) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0729-my-calendar-i) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0517-super-washing-machines](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0517-super-washing-machines) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0890-lemonade-change) |
