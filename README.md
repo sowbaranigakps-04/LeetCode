@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0670-maximum-swap) |
 | [0781-basic-calculator-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0258-add-digits) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-basic-calculator-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [1197-parsing-a-boolean-expression](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1936-maximize-number-of-nice-divisors) |
 ## Memoization
 |  |
 | ------- |
