@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2563-split-message-based-on-limit](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2563-split-message-based-on-limit) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -728,10 +731,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0052-n-queens-ii) |
 | [0282-expression-add-operators](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0282-expression-add-operators) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2563-split-message-based-on-limit](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2563-split-message-based-on-limit) |
 ## Geometry
