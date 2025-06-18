@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0517-super-washing-machines) |
 | [0539-minimum-time-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0630-course-schedule-iii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0630-course-schedule-iii) |
