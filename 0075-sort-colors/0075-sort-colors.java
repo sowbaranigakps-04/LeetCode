@@ -1,15 +1,20 @@
 class Solution {
+    static void swap(int nums[],int index1,int index2)
+    {
+        int temp = nums[index1];
+        nums[index1] = nums[index2];
+        nums[index2] = temp;
+    }
     public void sortColors(int[] nums) {
-        int start = 0;
+        int low = 0;
         int mid = 0;
         int end = nums.length-1;
         while(mid<=end)
         {
-            switch(nums[mid])
-            {
+            switch(nums[mid]){
                 case 0:
-                swap(nums,start,mid);
-                start++;
+                swap(nums,low,mid);
+                low++;
                 mid++;
                 break;
                 case 1:
@@ -17,17 +22,10 @@ class Solution {
                 break;
                 case 2:
                 swap(nums,mid,end);
-                end--;
+                end --;
                 break;
             }
         }
         
-    }
-    public static void swap(int num[],int pos1,int pos2)
-    {
-        int t = num[pos1];
-        num[pos1] = num[pos2];
-        num[pos2] = t;
-
     }
 }
