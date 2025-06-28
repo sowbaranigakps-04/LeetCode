@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0066-plus-one) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0067-add-binary) |
