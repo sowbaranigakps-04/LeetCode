@@ -1,11 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int Single = 0;
-        for(int i=0;i<nums.length;i++)
+        int xor = 0;
+        for(int num:nums)
         {
-           Single = Single^nums[i];
+            xor = xor^num;
         }
-        
-        return Single;
+        return xor;
     }
 }
