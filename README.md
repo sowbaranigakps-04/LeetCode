@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0229-majority-element-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0263-ugly-number) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0258-add-digits) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0204-count-primes) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2563-split-message-based-on-limit](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2563-split-message-based-on-limit) |
