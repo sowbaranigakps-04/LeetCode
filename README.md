@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0336-palindrome-pairs) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
