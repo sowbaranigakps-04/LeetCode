@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0135-candy) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0179-largest-number) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0287-find-the-duplicate-number) |
