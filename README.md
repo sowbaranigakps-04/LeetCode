@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0054-spiral-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0068-text-justification) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0164-maximum-gap) |
