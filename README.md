@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0412-fizz-buzz) |
 | [0514-freedom-trail](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0520-detect-capital) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0394-decode-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0394-decode-string) |
 | [0736-parse-lisp-expression](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0736-parse-lisp-expression) |
 | [0781-basic-calculator-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [0874-backspace-string-compare](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0394-decode-string) |
 | [0736-parse-lisp-expression](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0736-parse-lisp-expression) |
 | [0763-special-binary-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0763-special-binary-string) |
 | [0781-basic-calculator-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0781-basic-calculator-iv) |
