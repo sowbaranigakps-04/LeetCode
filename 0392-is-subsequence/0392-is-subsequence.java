@@ -10,10 +10,14 @@ class Solution {
             if(t.charAt(i) == s.charAt(j))
             {
                 cnt++;
-                if(j<s.length()-1)
-                {
-                    j++;
-                }
+                // if(j<s.length()-1)
+                // {
+                //     j++;
+                // }
+                if(cnt == s.length())
+                    break;
+                j++;
+
             }
 
         }
