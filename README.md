@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0670-maximum-swap) |
 | [0781-basic-calculator-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1304-longest-happy-string) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
