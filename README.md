@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3830-find-closest-person](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
