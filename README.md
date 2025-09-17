@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2350-find-closest-number-to-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
