@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0066-plus-one) |
