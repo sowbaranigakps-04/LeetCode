@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0620-not-boring-movies](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1683-invalid-tweets) |
 ## Binary Indexed Tree
 |  |
