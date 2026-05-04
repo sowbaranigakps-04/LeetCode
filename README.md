@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1729-find-followers-count) |
 ## Binary Indexed Tree
 |  |
 | ------- |
