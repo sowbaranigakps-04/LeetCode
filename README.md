@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3206-alternating-groups-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3206-alternating-groups-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
