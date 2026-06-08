@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2864-maximum-odd-binary-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3136-valid-word](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3136-valid-word) |
 | [3195-separate-black-and-white-balls](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2155-find-missing-observations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2864-maximum-odd-binary-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3830-find-closest-person) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
+| [2864-maximum-odd-binary-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/sowbaranigakps-04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Bucket Sort
 |  |
