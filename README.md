@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0917-boats-to-save-people](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1923-sentence-similarity-iii) |
