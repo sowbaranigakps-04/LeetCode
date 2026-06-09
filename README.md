@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2592-minimum-total-cost-to-make-arrays-unequal](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2592-minimum-total-cost-to-make-arrays-unequal) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2592-minimum-total-cost-to-make-arrays-unequal](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2592-minimum-total-cost-to-make-arrays-unequal) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
