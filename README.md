@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2460-apply-operations-to-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-shifting-letters-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2460-apply-operations-to-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
