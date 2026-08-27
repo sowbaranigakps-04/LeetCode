@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0189-rotate-array) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0118-pascals-triangle) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
