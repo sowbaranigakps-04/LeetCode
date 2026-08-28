@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
 | [0514-freedom-trail](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0514-freedom-trail) |
 | [0617-merge-two-binary-trees](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sowbaranigakps-04/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -929,4 +932,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2765-make-array-empty](https://github.com/sowbaranigakps-04/LeetCode/tree/master/2765-make-array-empty) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
