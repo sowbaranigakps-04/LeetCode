@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0514-freedom-trail](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0518-coin-change-ii) |
@@ -938,10 +940,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
