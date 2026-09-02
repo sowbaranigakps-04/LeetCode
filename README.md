@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0118-pascals-triangle) |
