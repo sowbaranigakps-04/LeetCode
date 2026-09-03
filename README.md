@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-lemonade-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0898-transpose-matrix) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0670-maximum-swap) |
+| [0860-lemonade-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sowbaranigakps-04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
